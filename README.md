@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Xacarami
 - 👀 I’m interested in Computational Science
-- 🌱 I’m currently learning HTML, CSS, English, and maybe python in future for backend.
-- 💞️ I’m looking to collaborate on problen than I can resolve to help that comunity.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, SQL, some Java, English, and maybe Python in future for backend.
